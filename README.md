@@ -3,7 +3,6 @@
 ![pfSense](https://img.shields.io/badge/pfSense-CE-blue?style-for-the-badge&logo=pfsense)
 ![Suricata](https://img.shields.io/badge/Suricata-IDS-orange?style-for-the-badge&logo=suricata)
 ![Splunk](https://img.shields.io/badge/Splunk-SIEM-000000?style-for-the-badge&logo=splunk)
-![Wireshark](https://img.shields.io/badge/Wireshark-Analysis-1679A7?style-for-the-badge&logo=wireshark)
 
 ---
 
